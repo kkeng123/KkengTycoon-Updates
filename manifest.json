@@ -1,13 +1,4 @@
 {
-  "packVersion": 1,
-  "minecraftVersion": "26.2",
-  "loader": "fabric",
-
-  "kkengPhone": {
-    "version": "1.0.0",
-    "downloadUrl": "",
-    "sha256": ""
-  },
-
-  "mods": []
+  "version": "1.0.0",
+  "downloadUrl": ""
 }
