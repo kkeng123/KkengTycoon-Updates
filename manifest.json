@@ -53,15 +53,6 @@
     },
 
     {
-      "id": "jei",
-      "name": "Just Enough Items (JEI)",
-      "mode": "fixed-modrinth",
-      "version": "30.12.0.70",
-      "versionId": "euv7QJ1H",
-      "filePattern": "jei-"
-    },
-
-    {
       "id": "mouse-tweaks",
       "name": "Mouse Tweaks",
       "mode": "fixed-modrinth",
