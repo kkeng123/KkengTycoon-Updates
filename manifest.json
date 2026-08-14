@@ -75,6 +75,23 @@
       "version": "30.12.0.70",
       "versionId": "euv7QJ1H",
       "filePattern": "jei-"
+    },
+
+    {
+      "id": "fusion",
+      "name": "Fusion (Connected Textures)",
+      "mode": "fixed-modrinth",
+      "version": "1.3.5",
+      "versionId": "UIuGABZi",
+      "filePattern": "fusion-"
+    },
+    {
+      "id": "supermartijn642corelib",
+      "name": "SuperMartijn642's Core Lib",
+      "mode": "fixed-modrinth",
+      "version": "1.1.21b",
+      "versionId": "taJl1g0T",
+      "filePattern": "supermartijn642corelib-"
     }
   ]
 }
