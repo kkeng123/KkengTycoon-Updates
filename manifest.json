@@ -1,7 +1,17 @@
 {
-  "packVersion": 3,
+  "packVersion": 4,
   "minecraftVersion": "26.2",
   "loader": "fabric",
+
+  "removePatterns": [
+    "comforts-fabric-",
+    "ForgeConfigAPIPort-",
+    "travelersbackpack-",
+    "trinkets-",
+    "fusion-",
+    "supermartijn642corelib-",
+    "connectedglass-"
+  ],
 
   "mods": [
     {
@@ -43,74 +53,12 @@
     },
 
     {
-      "id": "comforts",
-      "name": "Comforts",
-      "mode": "fixed-modrinth",
-      "version": "16.0.0+26.2",
-      "versionId": "FBaK3TtW",
-      "filePattern": "comforts-fabric-"
-    },
-    
-    {
-      "id": "forgeconfigapiport",
-      "name": "Forge Config API Port",
-      "mode": "fixed-modrinth",
-      "version": "26.2.1",
-      "versionId": "rSd3GiG8",
-      "filePattern": "ForgeConfigAPIPort-"
-    },
-    
-    {
-      "id": "travelers-backpack",
-      "name": "Traveler's Backpack",
-      "mode": "fixed-modrinth",
-      "version": "11.3.0",
-      "versionId": "8zYSDRGA",
-      "filePattern": "travelersbackpack-"
-    },
-
-    {
-      "id": "trinkets",
-      "name": "Trinkets Updated",
-      "mode": "fixed-modrinth",
-      "version": "4.1.0-beta.3+26.2",
-      "versionId": "to3SIE4i",
-      "filePattern": "trinkets-"
-    },
-
-    {
       "id": "jei",
       "name": "Just Enough Items (JEI)",
       "mode": "fixed-modrinth",
       "version": "30.12.0.70",
       "versionId": "euv7QJ1H",
       "filePattern": "jei-"
-    },
-
-    {
-      "id": "fusion",
-      "name": "Fusion (Connected Textures)",
-      "mode": "fixed-modrinth",
-      "version": "1.3.5",
-      "versionId": "UIuGABZi",
-      "filePattern": "fusion-"
-    },
-    {
-      "id": "supermartijn642corelib",
-      "name": "SuperMartijn642's Core Lib",
-      "mode": "fixed-modrinth",
-      "version": "1.1.21b",
-      "versionId": "taJl1g0T",
-      "filePattern": "supermartijn642corelib-"
-    },
-
-    {
-      "id": "connected-glass",
-      "name": "Connected Glass",
-      "mode": "fixed-modrinth",
-      "version": "1.1.14-fabric-mc26.2",
-      "versionId": "fHGQZw8c",
-      "filePattern": "connectedglass-"
     },
 
     {
