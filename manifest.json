@@ -1,5 +1,5 @@
 {
-  "packVersion": 2,
+  "packVersion": 3,
   "minecraftVersion": "26.2",
   "loader": "fabric",
 
@@ -7,9 +7,47 @@
     {
       "id": "kkengphone",
       "name": "KkengPhone",
+      "mode": "update",
       "version": "1.0.1",
       "fileName": "kkengphone-1.0.1.jar",
+      "filePattern": "kkengphone-",
       "downloadUrl": "https://github.com/kkeng123/KkengTycoon-Updates/releases/download/v1.0.1/kkengphone-1.0.1.jar"
+    },
+
+    {
+      "id": "xaeros-minimap",
+      "name": "Xaero's Minimap",
+      "mode": "fixed-modrinth",
+      "version": "26.4.0",
+      "versionId": "hwYpUNmh",
+      "filePattern": "Xaeros_Minimap_"
+    },
+
+    {
+      "id": "xaeros-world-map",
+      "name": "Xaero's World Map",
+      "mode": "fixed-modrinth",
+      "version": "1.44.2",
+      "versionId": "NzjI8AbM",
+      "filePattern": "XaerosWorldMap_"
+    },
+
+    {
+      "id": "comforts",
+      "name": "Comforts",
+      "mode": "fixed-modrinth",
+      "version": "16.0.0+26.2",
+      "versionId": "FBaK3TtW",
+      "filePattern": "comforts-fabric-"
+    },
+
+    {
+      "id": "travelers-backpack",
+      "name": "Traveler's Backpack",
+      "mode": "fixed-modrinth",
+      "version": "11.3.0",
+      "versionId": "8zYSDRGA",
+      "filePattern": "travelersbackpack-"
     }
   ]
 }
