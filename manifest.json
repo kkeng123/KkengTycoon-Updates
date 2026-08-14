@@ -92,6 +92,15 @@
       "version": "1.1.21b",
       "versionId": "taJl1g0T",
       "filePattern": "supermartijn642corelib-"
+    },
+
+    {
+      "id": "connected-glass",
+      "name": "Connected Glass",
+      "mode": "fixed-modrinth",
+      "version": "1.1.14",
+      "versionId": "fHGQZw8c",
+      "filePattern": "connectedglass-"
     }
   ]
 }
