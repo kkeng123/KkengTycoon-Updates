@@ -1,4 +1,15 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/kkeng123/KkengTycoon-Updates/releases/download/v1.0.1/kkengphone-1.0.1.jar"
+  "packVersion": 2,
+  "minecraftVersion": "26.2",
+  "loader": "fabric",
+
+  "mods": [
+    {
+      "id": "kkengphone",
+      "name": "KkengPhone",
+      "version": "1.0.1",
+      "fileName": "kkengphone-1.0.1.jar",
+      "downloadUrl": "https://github.com/kkeng123/KkengTycoon-Updates/releases/download/v1.0.1/kkengphone-1.0.1.jar"
+    }
+  ]
 }
