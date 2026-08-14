@@ -40,7 +40,16 @@
       "versionId": "FBaK3TtW",
       "filePattern": "comforts-fabric-"
     },
-
+    
+    {
+      "id": "forgeconfigapiport",
+      "name": "Forge Config API Port",
+      "mode": "fixed-modrinth",
+      "version": "26.2.1",
+      "versionId": "rSd3GiG8",
+      "filePattern": "ForgeConfigAPIPort-"
+    },
+    
     {
       "id": "travelers-backpack",
       "name": "Traveler's Backpack",
