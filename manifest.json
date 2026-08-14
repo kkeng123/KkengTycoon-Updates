@@ -57,6 +57,15 @@
       "version": "11.3.0",
       "versionId": "8zYSDRGA",
       "filePattern": "travelersbackpack-"
+    },
+
+    {
+      "id": "trinkets",
+      "name": "Trinkets Updated",
+      "mode": "fixed-modrinth",
+      "version": "4.1.0-beta.3+26.2",
+      "versionId": "to3SIE4i",
+      "filePattern": "trinkets-"
     }
   ]
 }
