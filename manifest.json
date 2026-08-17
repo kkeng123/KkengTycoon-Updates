@@ -59,6 +59,24 @@
       "version": "26.2-2.31-fabric",
       "versionId": "jOiTBIaB",
       "filePattern": "MouseTweaks-fabric-"
+    },
+
+    {
+  "id": "iris",
+  "name": "Iris Shaders",
+  "mode": "fixed-modrinth",
+  "version": "1.11.2+26.2-fabric",
+  "versionId": "oaD6KQls",
+  "filePattern": "iris-"
+    },
+    
+    {
+      "id": "sodium",
+      "name": "Sodium",
+      "mode": "fixed-modrinth",
+      "version": "mc26.2-0.9.1-fabric",
+      "versionId": "2Yom1N68",
+      "filePattern": "sodium-"
     }
   ]
 }
